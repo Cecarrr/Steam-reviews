@@ -1,4 +1,5 @@
 # Steam reviews sentiment analysis
+Dataset: https://www.kaggle.com/datasets/najzeko/steam-reviews-2021
 
 Proyek ini bertujuan untuk membangun model klasifikasi sentimen yang dapat memprediksi label ulasan berdasarkan isi teks-nya, sekaligus mengungkap kata-kata dan pola bahasa yang paling berpengaruh dalam menentukan sentimen komunitas gamer.
 
